@@ -1,6 +1,7 @@
 # Robot-Arm
 hands-on lab project that connects Arduino hardware with Onshape CAD assemblies using the Onshape REST API and Python to control a digital twin of a robot arm.
 
+<model-viewer src="Robot arm assembly (for viewing only9non-binary)).stl" alt="3D model" auto-rotate camera-controls></model-viewer>
 
 ## What Students Will Learn
 - Configure and authenticate with the **Onshape API**
