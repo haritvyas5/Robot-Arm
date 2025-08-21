@@ -19,3 +19,7 @@ hands-on lab project that connects Arduino hardware with Onshape CAD assemblies 
 This project uses OnShape for it's CAD Assmebly here is the link : [Onshape Assembly](https://cad.onshape.com/documents/12a6db3669fb09d865ec8365/w/53e0976b5f2ca5298d8693ce/e/909ce9c9e5dea110a3cd8f2e?renderMode=0&uiState=68a678ede9ec49555cd96f20).
 
 [![Open in Onshape](https://img.shields.io/badge/Open%20in-Onshape-blue)](https://cad.onshape.com/documents/12a6db3669fb09d865ec8365/w/53e0976b5f2ca5298d8693ce/e/909ce9c9e5dea110a3cd8f2e?renderMode=0&uiState=68a678ede9ec49555cd96f20)
+
+# Wiring Diagram
+
+![Wiring Diagram](IMG_0714.jpeg)
